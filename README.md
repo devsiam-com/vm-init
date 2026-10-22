@@ -9,14 +9,14 @@ One-command setup for a fresh Linux, macOS, or Windows machine.
 Linux / macOS:
 
 ```bash
-git clone https://github.com/kittaweek/vm-init.git vm-init && cd vm-init
+git clone https://github.com/devsiam-com/vm-init.git vm-init && cd vm-init
 bash install.sh
 ```
 
 Windows (PowerShell as Administrator):
 
 ```powershell
-git clone https://github.com/kittaweek/vm-init.git vm-init; cd vm-init
+git clone https://github.com/devsiam-com/vm-init.git vm-init; cd vm-init
 .\install.ps1
 ```
 
